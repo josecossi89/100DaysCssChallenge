@@ -12,4 +12,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 
   <img src="./Day_1/Screenshot from 2022-05-10 11-58-00.png" alt="logo" width="200" height="auto" />
 
-### Day #1 :heavy_check_mark:
+| Day    | Status             |
+| ------ | ------------------ |
+| Day #1 | :heavy_check_mark: |
+| Day #2 | :x:                |
