@@ -12,7 +12,7 @@ Maybe you can mention me or this repo in the acknowledgements too
 
   <img src="./Day_1/Screenshot from 2022-05-10 11-58-00.png" alt="logo" width="200" height="auto" />
 
-| Day    | Status             |
-| ------ | ------------------ |
-| Day #1 | :heavy_check_mark: |
-| Day #2 | :x:                |
+| Day    | Status             | Description                                                                                                    |
+| ------ | ------------------ | -------------------------------------------------------------------------------------------------------------- |
+| Day #1 | :heavy_check_mark: | 100 Days CSS: An easy start into the challenge with a custom build number with gradient.                       |
+| Day #2 | :x:                | Menu Icon: Used on almost every website by now, simple but impressively animated it becomes a real eye-catcher |
